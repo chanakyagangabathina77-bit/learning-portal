@@ -59,9 +59,3 @@ Everything is saved locally in the browser using `localStorage`.
 - To replace the sample source, update `src/data/portalContent.js`.
 - `src/App.jsx` is the stateful orchestrator and already connects to the backend API.
 - `server/index.js` contains the lightweight auth and portal persistence layer.
-
-## Suggested submission extras
-
-- Add screenshots of the lesson list, player, bookmark panel, scorecard, and certificate modal.
-- Record a short screen capture showing bookmark creation and resume behavior.
-- If you deploy it, host the React app on Netlify, Vercel, or GitHub Pages.
