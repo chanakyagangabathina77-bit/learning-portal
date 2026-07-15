@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "a438e4061a7a558efc5d6d7d",
+      "email": "chanakyagangabathina77@gmail.com",
+      "name": "Gangabathina Chanakya",
+      "passwordSalt": "03e37d40c27f8a8783a98fb3d7d2b011",
+      "passwordHash": "ef284a98baa308c7d9c6e59c60d19a705a35247b2be1a8ee3f08e50231a88d838216ecdee65277f4dd379db3e2bef594cc439ef9047980e994dbaf5bab50d7df"
+    }
+  ],
+  "sessions": {
+    "1b54f1dbbd8daf4bbff631ffdecbd298e569f54c3ceb88ff": "a438e4061a7a558efc5d6d7d",
+    "dfb2f7dca71d74086b290cd570ea5b10ca488ebb7bee12dd": "a438e4061a7a558efc5d6d7d"
+  },
+  "portals": {
+    "a438e4061a7a558efc5d6d7d": {
+      "studentName": "Gangabathina Chanaya",
+      "activeVideoId": "lesson-01",
+      "bookmarks": [],
+      "progress": {
+        "lesson-01": {
+          "time": 5.055,
+          "duration": 5.055,
+          "percent": 100,
+          "updatedAt": 1784080419092
+        }
+      },
+      "quizzes": {},
+      "quizDrafts": {}
+    }
+  }
+}
